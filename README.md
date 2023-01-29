@@ -1,5 +1,23 @@
-### Hi there 👋
+### ABOUT ME 
+👋Hi there! I'm web backend developer using Java and SpringBoot.
+Until i became a backend developer, i was interested in AI'S mathematical theory during my undergradute couse. so, I have completed an AI Expert Couse by the government and i was going to enter the AI&VISION Lab in Konkuk Graduate University with a master's couse. but i was interested more in web development, so i boldly gave up the master's couse and became a web backend developer.
+
+Currently, i am interested in optimizing performance and solving concurrency problems. 
+
+
+
+I was going to enter the AI&VISION LAB in Konkuk Graduate University with a master's degree. but i was interested in web development, so i boldly gave up the master's course and became a web backend developer.
+
 ---
+
+
+
+
+
+
+
+
+
 ### BACKEND STACK 🖥
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAACPElEQVR4nM3XS4iOURgH8J/RjDGEWVBjmiZESYrBwiUhKUyNkmLMAkVSyoKIlVLIBmVJLFySW5SFklvJLZRLhMlCsVEyJIrRyfPV21eDeX3fjH89i+8533n/73nO//yf81IaNGCIXsAitPY06TA8x+KeJB0XpCmqeop0NT7hIyZFbjDasAOjSk04CKfQiQ7MjPyG+J3GaktN2g+3gvQDpkV+TeR2o48yYGUQfMeMTP4uvqKvMmFVEJ8ryl+JfFO5iAfgJZ6gIpOfjR84oowYi7dYXpQ/iqfKjAacCIUXsDeUXVLUYxbmxFlNqMSYzBaksSyGoxmNeQiTDb4O4aRS1vzh/0nVdbH/TbHnXzCxu8Trwpk6M4bxCg9wE/cy8QhXMTUzvzqO3rbur/mXB6/AwbDJZBbLsAQtsZqunGpKvHBb3kaQzOENtgZZSxC3Ru40zmJEZl5NVOZO3gaSbHI7nmVKno1UyhdRkbkxpzY0sQsD85BmMTFWNiG6UYrR0Y8XFFno0FLa5+NY4TvciGbRjm+RT861URkwPVpee6i7IxzsOvZhXpGNdht1uIzPOBzlzGOrC7s7aVOU7nbOfUrCOoNDeezxYZCnTrQfS0M8jfHgQtSH2ObHsTof16FLIboCqv6WvCJKdQDX8L6Lo1QQVXrBk9iC8UXPWR+qz43BscKR4cMjfnOJ7x/mkmx0Z57rUHUQ/KlUlbHStTgeFTqGyf4BVdESk09vxp7oxam0F3E/4kKMNffW54z/Gj8BZlGEH3lbS4QAAAAASUVORK5CYII="> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> 
 
@@ -15,4 +33,4 @@
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> 
 ---
 ### SCM STACK 🖥
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white">
