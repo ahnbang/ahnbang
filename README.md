@@ -1,12 +1,8 @@
 ### ABOUT ME 
 👋Hi there! I'm web backend developer using Java and SpringBoot.
-Until i became a backend developer, i was interested in AI'S mathematical theory during my undergradute couse. so, I have completed an AI Expert Couse by the government and i was going to enter the AI&VISION Lab in Konkuk Graduate University with a master's couse. but i was interested more in web development, so i boldly gave up the master's couse and became a web backend developer.
+Until I became a backend developer, I was interested in AI'S mathematical theory during my undergradute couse. so, I have completed an AI Expert Couse by the government and i was going to enter the AI&VISION Lab in Konkuk Graduate University for a master's couse. but I was interested more in web development, so i boldly gave up the master's course and became a web backend developer.
 
-Currently, i am interested in optimizing performance and solving concurrency problems. 
-
-
-
-I was going to enter the AI&VISION LAB in Konkuk Graduate University with a master's degree. but i was interested in web development, so i boldly gave up the master's course and became a web backend developer.
+Currently, I am interested in optimizing performance and solving concurrency problems. 
 
 ---
 
