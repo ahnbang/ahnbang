@@ -1,10 +1,8 @@
 # ABOUT ME 
 👋Hi there! I'm web backend developer using Java and SpringBoot.
-Untile I became a backend developer, I was interested in AI about computer vision. So, I was going to enter the "AI&VISION LAB" in Konkuk Graduate University for a master's couse. but I was interested in web development more than AI, So I boldly gave up the master's course and became a web backend developer.
-
-I have experience in implementing shopping mall functions using JPA and Rich Domain Model Pattern. Recently I completed a shopping mall project using Mybatis and Anemic Domain Model Pattern, have experience distributing the project through AWS.
-
-Currently, I became interested in solving concurrency problems and optimizing performance by a recent proeject so stuying about this filed.
+Until I became a backend developer, I had been interested in AI about computer vision. So, I was going to enter the "AI&VISION LAB" in Konkuk Graduate University for a master's couse. but I was interested in web development more than AI, So I made my mind to give up the master's course and became a web backend developer.
+I have experience in implementing shopping mall functions using JPA and Rich Domain Model Pattern. Recently I completed a shopping mall project using Mybatis and Anemic Domain Model Pattern. Also, I have experience distributing the project through AWS.
+Currently, I'm interested in solving concurrency problems and optimizing performance so I'm trying to study these part.
 
 ---
 
